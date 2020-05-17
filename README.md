@@ -25,7 +25,7 @@ Run index.html
 ----------------------------------------------------------------
 
 <h3> Have a glance : </h3>
-<img src="email.png"></img>	 
+<img src="Email.JPG"></img>	 
 
 
 ### Check Live Demo 
