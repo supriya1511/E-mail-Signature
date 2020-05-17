@@ -24,6 +24,7 @@ Run index.html
 
 
 <h3> Have a glance </h3>
+<img src="Email.JPG"></img>	 
 
 
 ### Check Live Demo 
