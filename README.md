@@ -27,7 +27,7 @@ Run index.html
 
 
 <h2> Check Live demo</h2>
-[Email Signature ~ SupriyaMadiwal](https://supriya1511.github.io/E-mail-Signature/)
+[EmailSignatureSupriyaMadiwal](https://supriya1511.github.io/E-mail-Signature/)
 
 
 
