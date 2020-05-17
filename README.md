@@ -19,7 +19,6 @@ If you’re using Gmail, you will have to copy the rendered HTML signature into 
 ```
 Save index.html and style.css in same directory structure.
 Run index.html 
-
 ```
 
 <h3> Have a glance </h3>
