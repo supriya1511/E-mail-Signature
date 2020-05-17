@@ -6,10 +6,11 @@
 - Also, all the images in the signature need to be hosted somewhere like Google Drive. This is because the HTML image elements require a source URL and those images need to be pulled from some online server in order for the emails to render correctly.
 All the CSS needs to be applied inline within the HTML elements. For some reason, emails don’t render correctly when you try targeting HTML element classes/ids using CSS.
 
--------------------------------------
-# Note
-The source for the image is contained within my own personal Google Drive where the image has sharing settings that allow anyone to view the image. As a note, I had to change the sharing link provided by Google to include <b><u>uc?id=</u></b> at the beginning of the GET request in the URL. This allows for a direct download from Google Drive and makes sure the image appears correctly in the email signature.
----------------------------------------
+## NOTE :
 
-# Adding the HTML Signature to your Email
+The source for the image is contained within my own personal Google Drive where the image has sharing settings that allow anyone to view the image. As a note, I had to change the sharing link provided by Google to include uc?id= at the beginning of the GET request in the URL. This allows for a direct download from Google Drive and makes sure the image appears correctly in the email signature.
+
+--------------------------------------------
+## Adding the HTML Signature to your Email
+
 If you’re using Gmail, you will have to copy the rendered HTML signature into Gmail. 
