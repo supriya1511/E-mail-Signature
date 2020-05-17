@@ -9,3 +9,7 @@ All the CSS needs to be applied inline within the HTML elements. For some reason
 -------------------------------------
 # Note
 The source for the image is contained within my own personal Google Drive where the image has sharing settings that allow anyone to view the image. As a note, I had to change the sharing link provided by Google to include <b><u>uc?id=</u></b> at the beginning of the GET request in the URL. This allows for a direct download from Google Drive and makes sure the image appears correctly in the email signature.
+---------------------------------------
+
+# Adding the HTML Signature to your Email
+If you’re using Gmail, you will have to copy the rendered HTML signature into Gmail. 
