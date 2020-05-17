@@ -14,7 +14,7 @@ The source for the image is contained within my own personal Google Drive where 
 
 If you’re using Gmail, you will have to copy the rendered HTML signature into Gmail.
 
----------------------------------------------------------------
+
 <h3>Setup :</h3>
 
 ```
@@ -22,13 +22,16 @@ Save index.html and style.css in same directory structure.
 Run index.html 
 ```
 
+----------------------------------------------------------------
 
-<h3> Have a glance </h3>
+<h3> Have a glance : </h3>
 <img src="Email.JPG"></img>	 
 
 
 ### Check Live Demo 
 [EmailSignature](https://supriya1511.github.io/E-mail-Signature/)
 
+<h2>Click on social links that will redirect to appropriate public profile.</h2>
 
-
+If you like my work , give star :star:
+Thank you :relaxed:
