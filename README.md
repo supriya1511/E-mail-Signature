@@ -15,7 +15,7 @@ The source for the image is contained within my own personal Google Drive where 
 If you’re using Gmail, you will have to copy the rendered HTML signature into Gmail.
 
 ---------------------------------------------------------------
-<h3>Setup </h3>
+<h3>Setup :</h3>
 
 ```
 Save index.html and style.css in same directory structure.
