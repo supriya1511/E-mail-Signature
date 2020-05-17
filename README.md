@@ -31,7 +31,7 @@ Run index.html
 ### Check Live Demo 
 [EmailSignature](https://supriya1511.github.io/E-mail-Signature/)
 
-<h2>Click on social links that will redirect to appropriate public profile.</h2>
+<h5>Click on social links that will redirect to appropriate public profile.</h5>
 
 If you like my work , give star :star:
 Thank you :relaxed:
