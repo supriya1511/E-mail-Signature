@@ -17,9 +17,11 @@ If you’re using Gmail, you will have to copy the rendered HTML signature into 
 ---------------------------------------------------------------
 <h3>Setup </h3>
 ```
-- Save index.html and style.css in same directory structure.
-- Run index.html 
+Save index.html and style.css in same directory structure.
+Run index.html 
+
 ```
+
 <h3> Have a glance </h3>
 
 
